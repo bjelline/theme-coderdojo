@@ -1,4 +1,5 @@
 theme-coderdojo
 ===============
 
-an example theme modeled after http://blog.coderdojo-salzburg.at/
+An example theme for https://github.com/learnery/learnery
+modeled after http://blog.coderdojo-salzburg.at/
